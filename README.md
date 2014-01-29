@@ -12,7 +12,8 @@ Start Location Activity
   a.  Search box - like google maps, must enter city+state (or zipcode), and street address (optional)
   
   b.  Use current location - use GPS to get current coordinates (requires location access)
-
+  
+  
 Map View Activity
 
 3.  After location set, Google map is loaded
@@ -52,6 +53,7 @@ Access Point Activity
   e.  Marker colors will be updated when user goes back to Map View.
   
   f.  Will be a "Get directions to" link that will link to google maps and autofill the current GPS location as start and access point coordinates as the end
+  
 
 Favorites List Activity
 
