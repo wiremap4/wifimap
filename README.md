@@ -7,7 +7,7 @@ Start Location Activity
 
 1.  User starts at this activity on app launch
 
-2.  User needs to set location to load the initial map using two options:
+2.  User needs to set location to load the initial map using one of two options:
 
   a.  Search box - like google maps, must enter city+state (or zipcode), and street address (optional)
   
