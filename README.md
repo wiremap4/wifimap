@@ -69,3 +69,14 @@ D.  Favorites List Activity
   
   e.  User can "bulk delete" items by checkmarking each one and clicking delete.
 
+Wireframes
+
+Preview: 
+
+https://www.fluidui.com/editor/live/preview/p_nN0WeBlJywEMOVSGmqAfq88yfJ1BBy1w.1392091770257
+
+Basic flow:
+  
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Basic Flow")
+
